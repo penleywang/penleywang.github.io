@@ -23,8 +23,8 @@ script:
   - hexo generate
 
 after_script:
-  - git config user.name "yourName"
-  - git config user.email "yourEmail"
+  - git config user.name "Penley Wang"
+  - git config user.email "penley.wang@outlook.com"
   - sed -i "s/gh_token/${GH_TOKEN}/g" ./_config.yml
   - hexo deploy
 # End: Build LifeCycle
