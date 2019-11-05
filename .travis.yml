@@ -2,19 +2,15 @@ sudo: false
 language: node_js
 node_js:
   - 10 # use nodejs v10 LTS
-
-cache:
-  directories:
-    - node_modules
+cache: npm
     
 branches:
   only:
     - pg-hexo
-before_install:
-  - npm install -g hexo-cli
-  
+
 # Start: Build Lifecycle
 install:
+  - npm install -g hexo-cli
   - npm install
   - npm install hexo-deployer-git --save
 
