@@ -128,34 +128,34 @@ widgets:
         # Author name to be shown in the profile widget
         author: 王盘利
         # Title of the author to be shown in the profile widget
-        author_title: 软件开发
+        author_title: 软件工程师
         # Author's current location to be shown in the profile widget
-        location: 鄂尔多斯
+        location: 内蒙古*鄂尔多斯
         # Path or URL to the avatar to be shown in the profile widget
-        avatar: 
-        # Email address for the Gravatar to be shown in the profile widget
-        gravatar: 
-        # Whether to show avatar image rounded or square
-        avatar_rounded: false
+        # avatar: 
+        # # Email address for the Gravatar to be shown in the profile widget
+        # gravatar: 
+        # # Whether to show avatar image rounded or square
+        # avatar_rounded: false
         # Path or URL for the follow button
         follow_link: 'https://github.com/PenleyWang'
         # Links to be shown on the bottom of the profile widget
-        social_links:
-            Github:
-                icon: fab fa-github
-                url: 'https://github.com/PenleyWang'
-            Facebook:
-                icon: fab fa-facebook
-                url: 'https://facebook.com'
-            Twitter:
-                icon: fab fa-twitter
-                url: 'https://twitter.com'
-            Dribbble:
-                icon: fab fa-dribbble
-                url: 'https://dribbble.com'
-            RSS:
-                icon: fas fa-rss
-                url: /
+        # social_links:
+            # Github:
+                # icon: fab fa-github
+                # url: 'https://github.com/PenleyWang'
+            # Facebook:
+                # icon: fab fa-facebook
+                # url: 'https://facebook.com'
+            # Twitter:
+                # icon: fab fa-twitter
+                # url: 'https://twitter.com'
+            # Dribbble:
+                # icon: fab fa-dribbble
+                # url: 'https://dribbble.com'
+            # RSS:
+                # icon: fas fa-rss
+                # url: /
     -
         # Widget name
         type: toc
