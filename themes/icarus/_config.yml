@@ -8,7 +8,7 @@ meta:
 rss: 
 # Path or URL to the website's logo to be shown on the left of the navigation bar or footer
 logo:
-  text: 我的博客
+  text: Penley.Wang的博客
 # Open Graph metadata
 # https://hexo.io/docs/helpers.html#open-graph
 open_graph:
@@ -126,11 +126,11 @@ widgets:
         # Where should the widget be placed, left or right
         position: left
         # Author name to be shown in the profile widget
-        author: 王盘利
+        author: Penley.Wang
         # Title of the author to be shown in the profile widget
-        author_title: 软件工程师
+        author_title: Software Engineer 
         # Author's current location to be shown in the profile widget
-        location: 内蒙古*鄂尔多斯
+        location: ORDOS
         # Path or URL to the avatar to be shown in the profile widget
         # avatar: 
         # # Email address for the Gravatar to be shown in the profile widget
