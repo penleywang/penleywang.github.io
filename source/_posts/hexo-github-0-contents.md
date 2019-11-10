@@ -4,9 +4,9 @@ date: 2019-11-09 19:58:16
 tags: Blog
 ---
 
-# 1. [Blog站点搭建前的选择](Hexo-GitHub-1-lectotype.md)
+# 1. [Blog站点搭建前的选择](hexo-github-1-lectotype.md)
 
-# 2. [静态站点创建器（SSGs）介绍](Hexo-GitHub-2-SSGs.md)
+# 2. [静态站点创建器（SSGs）介绍](hexo-github-2-SSGs.md)
 
 # 3. [Hexo本地安装及使用](Hexo-GitHub-3-Hexo.md)
 
