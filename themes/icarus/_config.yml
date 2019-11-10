@@ -27,10 +27,10 @@ navbar:
     # Navigation bar menu links
     menu:
         首页: /
-        规档: /archives
+        归档: /archives
         分类: /categories
         标签: /tags
-        关于: /about
+        关于: about.html
     # Navigation bar links to be shown on the right
     links:
         Download on GitHub:
@@ -73,7 +73,12 @@ search:
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Comment
 comment:
     # Name of the comment plugin
-    type: 
+    type: gitalk
+    owner: PenleyWang                   # (required) GitHub user name
+    repo: penleywang.github.io          # (required) GitHub repository name
+    client_id: Iv1.97b825b4419ef906     # (required) OAuth application client id
+    client_secret: b44c2bf7418d79250b9c74e7fec22c95a5866e03 # (required) OAuth application client secret
+    admin: PenleyWang         # (required) GitHub repo owner and collaborators who can initialize github issues
 # Donation entries
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Donation/
 # donate:
