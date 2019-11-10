@@ -1,32 +1,20 @@
 ---
-title: 使用Hexo+GitHub搭建个人博客目录
+title: 基于Hexo和GitHub Pages搭建个人博客站点系列目录
 date: 2019-11-09 19:58:16
 tags: Blog
 ---
 
-# 1. Blog系统搭建前的选择
+# 1. [Blog站点搭建前的选择](Hexo-GitHub-1-lectotype.md)
 
-# 2. 静态站点创建器（SSGs）介绍
+# 2. [静态站点创建器（SSGs）介绍](Hexo-GitHub-2-SSGs.md)
 
-# 3. Hexo本地安装及使用
+# 3. [Hexo本地安装及使用](Hexo-GitHub-3-Hexo.md)
 
-## Hexo安装
+# 4. [博客站点源代码的保存及版本控制](hexo-github-4-source-control.md)
 
-## 开始使用
 
-### 站点配置
 
-### Markdown简介
-
-### 博客书写及本地预览
-
-# 4. 博客站点源代码的保存及版本控制
-
-## Git简介
-
-## GitHub帐号注册
-
-## 将博客站点源代码保存到GitHub仓库中
+ <!-- more -->
 
 # 5. 借助GitHub Pages服务发布博客站点
 
