@@ -78,7 +78,7 @@ comment:
     repo: penleywang.github.io
     client_id: 7478e0eee7239d3eb92f
     client_secret: 332b997e40d51d315d82a689f72e91c4903ce840
-    admin: ['PenleyWang']
+    admin: PenleyWang
 # Donation entries
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Donation/
 # donate:
