@@ -73,13 +73,12 @@ search:
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Comment
 comment:
     # Name of the comment plugin
-    type: gitalk
-    owner: PenleyWang
-    repo: penleywang.github.io
-    client_id: cde642f62e50fb9ac303
-    client_secret: 571737c2e2f8872a3c5ed64a92cb8f622ca59b12
-    admin:
-      - PenleyWang
+    type: valine
+    app_id: yNmVJUwViKCT2Oy8eYSU8wvX-gzGzoHsz
+    app_key: jcn1kD6D67kpbr3WFBl96Mqw
+    notify: false
+    verify: false
+    placeholder: 
 # Donation entries
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Donation/
 # donate:
